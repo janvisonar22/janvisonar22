@@ -1,5 +1,14 @@
-## Hi there 👋
+Hi there, I'm Janvi! 👋
+👩‍💻 Software Engineer & Odoo Developer
+Building efficient ERP solutions and custom business modules.
 
+- 🛠️ **Tech Stack:** Python, Odoo, JavaScript, PostgreSQL
+- 🚀 **Focus:** Custom Module Development & Workflow Optimization
+- 📈 **Goal:** Creating scalable business solutions that drive growth
+
+---
+### Let's Connect:
+[LinkedIn](https://www.linkedin.com/in/janvi-sonar-36491327b/)
 <!--
 **janvisonar22/janvisonar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
