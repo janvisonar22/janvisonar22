@@ -7,7 +7,7 @@ Building efficient ERP solutions and custom business modules.
 - 📈 **Goal:** Creating scalable business solutions that drive growth
 ---
 ### Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/janvi-sonar-36491327b/)
+[LinkedIn-Janvisonar](https://www.linkedin.com/in/janvi-sonar-36491327b/)
 
 
 # 💻 Tech Stack:
